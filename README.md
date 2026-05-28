@@ -6,3 +6,7 @@ update change from new branch in remote to local repo
 this form local repo in new branch
 
 create commit in same branch main
+
+## Update
+This code about __automate backup__ log file 
+
